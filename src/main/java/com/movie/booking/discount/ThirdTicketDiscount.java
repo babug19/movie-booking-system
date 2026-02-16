@@ -1,4 +1,4 @@
-package com.movie.booking.service;
+package com.movie.booking.discount;
 
 import com.movie.booking.entity.Seat;
 import com.movie.booking.entity.Show;
